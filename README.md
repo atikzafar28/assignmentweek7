@@ -1,1 +1,1 @@
-[DIABETES PREDICTION APP LINK]{https://diabetespredictioncelebal.streamlit.app/}
+[DIABETES PREDICTION APP LINK] https://diabetespredictioncelebal.streamlit.app/
